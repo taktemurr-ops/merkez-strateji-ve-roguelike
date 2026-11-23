@@ -83,7 +83,7 @@ final hubConfig = HubConfig(
       'Từ hầm ngục tới thung lũng, mỗi lượt đều mới',
       'Mula piitan hanggang lambak, bago ang bawat laro',
     ],
-  seedColor: const Color(0xFF4E3D6B),
+  seedColor: const Color(0xFF673DA5),
   icon: Icons.castle,
   games: [
     zindanKesfiConfig,
