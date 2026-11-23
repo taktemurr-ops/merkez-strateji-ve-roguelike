@@ -1,0 +1,102 @@
+name: merkez_strateji_ve_roguelike
+description: "Strateji ve Roguelike merkez uygulaması. Offline-first Flutter game for Android, iOS and Web."
+publish_to: none
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.6.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  # Ortak çekirdek: https://github.com/taktemurr-ops/studio-core
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 921df6392b2121ffd438a286673ef9f10c988273
+  # Merkezdeki oyunlar (her biri kendi deposunda)
+  oyun_zindan_kesfi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-zindan-kesfi
+      ref: main
+  oyun_deste_kurma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-deste-kurma
+      ref: main
+  oyun_hayatta_kalma:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-hayatta-kalma
+      ref: main
+  oyun_altigen_savas_oyunu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-altigen-savas-oyunu
+      ref: main
+  oyun_sira_tabanli_taktik:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-sira-tabanli-taktik
+      ref: main
+  oyun_kum_saati_arenasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kum-saati-arenasi
+      ref: main
+  oyun_vadi_kurucu:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-vadi-kurucu
+      ref: main
+  flutter_localizations:
+    sdk: flutter
+  flutter_riverpod: ^2.6.1
+  shared_preferences: ^2.3.2
+  audioplayers: ^6.5.0
+  google_mobile_ads: ^9.2.0
+  in_app_purchase: ^3.2.0
+
+dependency_overrides:
+  # Tüm oyunlar aynı çekirdek ve motor sürümlerini kullansın.
+  studio_core:
+    git:
+      url: https://github.com/taktemurr-ops/studio-core
+      ref: 921df6392b2121ffd438a286673ef9f10c988273
+  strateji_motoru:
+    git:
+      url: https://github.com/taktemurr-ops/strateji-motoru
+      ref: main
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  integration_test:
+    sdk: flutter
+  flutter_driver:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.14.1
+  flutter_native_splash: ^2.4.1
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sfx/
+    - assets/config/
+    - assets/branding/
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  remove_alpha_ios: true
+  image_path: assets/branding/icon.png
+  adaptive_icon_background: "#1F2A44"
+  adaptive_icon_foreground: assets/branding/icon_foreground.png
+  web:
+    generate: true
+    image_path: assets/branding/icon.png
+    background_color: "#1F2A44"
+    theme_color: "#1F2A44"
+
+flutter_native_splash:
+  color: "#1F2A44"
+  image: assets/branding/splash.png
+  android_12:
+    color: "#1F2A44"
+    image: assets/branding/splash_android12.png
+  web: true

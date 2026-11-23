@@ -1,0 +1,15 @@
+Strategie și Roguelike reunește 7 jocuri de strategie și roguelike într-o aplicație. Coboară cu felinarul într-o temniță cețoasă, termină o expediție de cărți, rezistă pe un țărm pustiu până la salvare; condu o armată pe hexagoane, joacă-ți echipa după viteză într-o curte, unește unități în arena clepsidrei și construiește o vale gândindu-te la vecini. Fiecare nivel e generat, iar un jucător AI verifică faptul că poate fi câștigat. Victoriile aduc puncte de măiestrie care deblochează cinci avantaje permanente în fiecare joc.
+
+• Expediții: Adâncurile Felinarului, Expediția Cărților, Țărmul Naufragiatului
+• Luptă și tactică: Frontul Hexagonal, Tactica Curții, Arena Clepsidrei
+• Construiește și planifică: Constructorul Văii
+
+Puncte forte
+• 100.000 de niveluri pe joc; fiecare e generat, iar o IA verifică faptul că poate fi câștigat.
+• Zece trepte de dificultate: niveluri relaxante la început, provocări de expert mai târziu.
+• Victoriile aduc puncte de măiestrie și cinci avantaje permanente în fiecare joc. Indiciul arată mutarea pe care ar alege-o o IA.
+• Niveluri zilnice și săptămânale, misiuni, realizări și 33 de limbi.
+• Se joacă offline pe telefon, tabletă și web.
+• Fără jocuri de noroc, pariuri sau conținut 18+; potrivit pentru toate vârstele.
+
+Achizițiile (de ex. fără reclame) se aplică tuturor jocurilor din aplicație.

@@ -1,0 +1,15 @@
+Strategie a roguelike spojuje 7 strategických a roguelike her v jedné aplikaci. Sestup s lucernou do mlžné kobky, dokonči karetní výpravu, vydrž na opuštěném pobřeží do záchrany; veď armádu po šestiúhelnících, hraj s družinou na nádvoří podle rychlosti, slučuj jednotky v aréně přesýpacích hodin a stav údolí s ohledem na sousedy. Každá úroveň je vytvořena a AI hráč ověří, že jde vyhrát. Výhry dávají body mistrovství, které v každé hře odemknou pět trvalých výhod.
+
+• Výpravy: Hlubiny s lucernou, Výprava s balíčkem, Pobřeží trosečníka
+• Bitva a taktika: Šestiúhelníková fronta, Taktika na nádvoří, Aréna přesýpacích hodin
+• Stav a plánuj: Stavitel údolí
+
+Hlavní přednosti
+• 100 000 úrovní na hru; každá je vytvořena a AI ověří, že jde vyhrát.
+• Deset stupňů obtížnosti: pohodový začátek, později výzvy pro experty.
+• Výhry dávají body mistrovství a v každé hře odemknou pět trvalých výhod. Nápověda ukáže tah, který by zvolila AI.
+• Denní a týdenní úrovně, úkoly, úspěchy a 33 jazyků.
+• Hraje se offline na telefonu, tabletu i na webu.
+• Žádné hazardní hry, sázky ani obsah 18+; vhodné pro všechny věkové kategorie.
+
+Nákupy (např. bez reklam) platí pro všechny hry v aplikaci.

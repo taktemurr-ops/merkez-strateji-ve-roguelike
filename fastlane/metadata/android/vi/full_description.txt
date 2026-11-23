@@ -1,0 +1,15 @@
+Chiến thuật & Roguelike gom 7 trò chiến thuật và roguelike trong một ứng dụng. Cầm đèn lồng xuống hầm ngục mù sương, hoàn thành chuyến viễn chinh bằng bài, trụ lại trên bờ biển hoang tới khi được cứu; chỉ huy quân trên ô lục giác, điều đội theo thứ tự tốc độ trong sân thành, hợp nhất đơn vị ở đấu trường đồng hồ cát và dựng thung lũng với ý đến từng hàng xóm. Mỗi màn được tạo ra và một người chơi AI kiểm tra là có thể thắng. Thắng sẽ nhận điểm tinh thông để mở năm ưu đãi lâu dài trong mỗi trò.
+
+• Chuyến đi: Vực Sâu Đèn Lồng, Viễn chinh bộ bài, Bờ Biển Hoang
+• Chiến đấu và chiến thuật: Mặt Trận Lục Giác, Chiến Thuật Sân Thành, Đấu Trường Đồng Hồ Cát
+• Xây và lập kế hoạch: Người Dựng Thung Lũng
+
+Điểm nổi bật
+• 100.000 màn mỗi trò; mỗi màn được tạo và AI kiểm tra là có thể thắng.
+• Mười bậc độ khó: nhẹ nhàng lúc đầu, thử thách chuyên gia về sau.
+• Thắng sẽ nhận điểm tinh thông và năm ưu đãi lâu dài mỗi trò. Gợi ý cho thấy nước đi AI sẽ chọn.
+• Màn hằng ngày và hằng tuần, nhiệm vụ, thành tích và 33 ngôn ngữ.
+• Chơi ngoại tuyến trên điện thoại, máy tính bảng và web.
+• Không cờ bạc, cá cược hay nội dung 18+; phù hợp mọi lứa tuổi.
+
+Mua hàng (như bỏ quảng cáo) áp dụng cho mọi trò trong ứng dụng.

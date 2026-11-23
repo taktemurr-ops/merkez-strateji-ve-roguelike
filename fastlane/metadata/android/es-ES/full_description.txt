@@ -1,0 +1,15 @@
+Estrategia y Roguelike reúne 7 juegos de estrategia y roguelike en una app. Baja con tu farol a una mazmorra brumosa, completa una expedición de cartas, resiste en una costa desierta hasta el rescate; dirige un ejército por hexágonos, mueve tu escuadra por orden de velocidad en un patio, fusiona unidades en la arena del reloj de arena y construye un valle pensando en cada vecino. Cada nivel se genera y una IA comprueba que se puede ganar. Ganar da puntos de maestría que desbloquean cinco mejoras permanentes por juego.
+
+• Expediciones: Profundidades del Farol, Expedición de Cartas, Costa del Náufrago
+• Batalla y táctica: Frontera Hexagonal, Táctica en el Patio, Arena del Reloj de Arena
+• Construye y planea: Constructor del Valle
+
+Lo más destacado
+• 100.000 niveles por juego; cada nivel se genera y una IA comprueba que se puede ganar.
+• Diez escalones de dificultad: niveles tranquilos al principio, retos expertos después.
+• Ganar da puntos de maestría que desbloquean cinco mejoras permanentes por juego. Las pistas muestran la jugada de una IA.
+• Niveles diarios y semanales, misiones, logros y 33 idiomas.
+• Se juega sin conexión en móvil, tableta y web.
+• Sin apuestas, juegos de azar ni contenido +18; apto para todas las edades.
+
+Las compras (como quitar anuncios) valen para todos los juegos de la app.

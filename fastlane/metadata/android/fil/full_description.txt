@@ -1,0 +1,15 @@
+Pinagsasama ng Estratehiya at Roguelike ang 7 larong estratehiya at roguelike sa iisang app. Bumaba sa maulap na piitan dala ang parol, tapusin ang ekspedisyon ng baraha, magtiis sa liblib na baybayin hanggang masagip; pamunuan ang hukbo sa mga hexagon, laruin ang pangkat ayon sa bilis sa patyo, pagsamahin ang mga yunit sa arena ng orasang buhangin at itayo ang lambak nang iniisip ang bawat katabi. Ginagawa ang bawat level at sinusuri ng AI na manlalaro na kaya itong ipanalo. Nagbibigay ang panalo ng puntos ng kahusayan na nagbubukas ng limang pangmatagalang bentahe sa bawat laro.
+
+• Mga Lakbay: Lalim ng Parol, Ekspedisyon ng Baraha, Baybayin ng Napadpad
+• Labanan at taktika: Hexagong Larangan, Taktika sa Patyo, Arena ng Orasang Buhangin
+• Magtayo at magplano: Tagapagtayo ng Lambak
+
+Mga tampok
+• 100,000 level bawat laro; ginagawa ang bawat level at sinusuri ng AI na kaya itong ipanalo.
+• Sampung baitang ng hirap: magaan sa umpisa, hamon para sa eksperto sa huli.
+• Nagbibigay ang panalo ng puntos ng kahusayan at limang pangmatagalang bentahe bawat laro. Ipinapakita ng hint ang galaw na pipiliin ng AI.
+• Araw-araw at lingguhang level, misyon, tagumpay at 33 wika.
+• Puwedeng laruin offline sa phone, tablet at web.
+• Walang sugal, pustahan o 18+ na nilalaman; angkop sa lahat ng edad.
+
+Ang mga binili (gaya ng walang ads) ay para sa lahat ng laro sa app.

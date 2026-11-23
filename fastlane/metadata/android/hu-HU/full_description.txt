@@ -1,0 +1,15 @@
+A Stratégia és roguelike 7 stratégiai és roguelike játékot gyűjt egy appba. Szállj le lámpással egy ködös börtönbe, teljesíts egy kártyás expedíciót, tarts ki egy lakatlan parton a mentésig; vezess sereget hatszögeken, játszd ki csapatodat gyorsasági sorrendben egy udvaron, egyesíts egységeket a homokóra-arénában, és építs völgyet a szomszédokra figyelve. Minden szint generált, és egy MI-játékos ellenőrzi, hogy megnyerhető. A győzelmek mesterpontokat adnak, amelyek játékonként öt tartós előnyt nyitnak.
+
+• Kalandok: Lámpásmélység, Pakli-expedíció, Hajótöröttek partja
+• Csata és taktika: Hatszög-front, Udvari taktika, Homokóra-aréna
+• Építs és tervezz: Völgyépítő
+
+Kiemelt
+• Játékonként 100 000 szint; mindegyik generált, és MI ellenőrzi, hogy megnyerhető.
+• Tíz nehézségi fokozat: nyugodt kezdés, később szakértői kihívások.
+• A győzelmek mesterpontokat adnak, játékonként öt tartós előnnyel. A tipp megmutatja, mit lépne egy MI.
+• Napi és heti pályák, küldetések, eredmények és 33 nyelv.
+• Offline játszható telefonon, tableten és weben.
+• Nincs szerencsejáték, fogadás vagy 18+ tartalom; minden korosztálynak.
+
+A vásárlások (pl. reklámmentesség) az alkalmazás minden játékára érvényesek.

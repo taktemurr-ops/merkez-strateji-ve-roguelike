@@ -1,0 +1,15 @@
+Strategi & Roguelike samlar 7 strategi- och roguelikespel i en app. Gå ner med lyktan i en dimmig håla, fullfölj en kortexpedition, håll ut på en öde strand tills räddningen kommer; led en armé över hexrutor, spela din trupp i fartordning på en borggård, slå ihop enheter i timglasarenan och bygg en dal med tanke på varje granne. Varje nivå skapas och en AI-spelare kontrollerar att den går att vinna. Vinster ger mästarpoäng som låser upp fem bestående fördelar i varje spel.
+
+• Räder: Lyktdjupen, Kortexpeditionen, Skeppsbrutnas strand
+• Strid och taktik: Hexfronten, Gårdstaktik, Timglasarenan
+• Bygg och planera: Dalbyggaren
+
+Höjdpunkter
+• 100 000 nivåer per spel; varje nivå skapas och en AI kontrollerar att den går att vinna.
+• Tio svårighetssteg: avslappnat i början, expertutmaningar senare.
+• Vinster ger mästarpoäng och fem bestående fördelar per spel. Ledtrådar visar draget en AI skulle välja.
+• Dagliga och veckovisa nivåer, uppdrag, prestationer och 33 språk.
+• Spelas offline på mobil, surfplatta och webb.
+• Inget spel om pengar, vadslagning eller 18+-innehåll; passar alla åldrar.
+
+Köp (t.ex. reklamfritt) gäller alla spel i appen.

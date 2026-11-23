@@ -1,0 +1,15 @@
+Stratégie et Roguelike réunit 7 jeux de stratégie et roguelike dans une app. Descendez à la lanterne dans un donjon brumeux, terminez une expédition de cartes, tenez bon sur un rivage désert jusqu’aux secours ; menez une armée sur des hexagones, jouez votre escouade par ordre de vitesse dans une cour, fusionnez des unités dans l’arène du sablier et bâtissez une vallée en pensant à chaque voisin. Chaque niveau est généré et une IA vérifie qu’il est gagnable. Les victoires donnent des points de maîtrise qui débloquent cinq avantages durables par jeu.
+
+• Expéditions: Profondeurs à la Lanterne, Expédition de Cartes, Rivage du Naufragé
+• Combat et tactique: Frontière Hexagonale, Tactique de la Cour, Arène du Sablier
+• Bâtir et planifier: Bâtisseur de Vallée
+
+Points forts
+• 100 000 niveaux par jeu ; chaque niveau est généré et une IA vérifie qu’il est gagnable.
+• Dix paliers de difficulté : niveaux détendus au début, défis d’expert ensuite.
+• Les victoires donnent des points de maîtrise pour cinq avantages durables par jeu. Les indices montrent le coup d’une IA.
+• Niveaux quotidiens et hebdomadaires, missions, succès et 33 langues.
+• Hors ligne sur téléphone, tablette et web.
+• Ni jeu d’argent, ni pari, ni contenu 18+ ; adapté à tous les âges.
+
+Les achats (comme supprimer les pubs) valent pour tous les jeux de l'appli.
