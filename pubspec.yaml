@@ -27,6 +27,10 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayatta-kalma
       ref: c16c7c94509e4aa04ab12bbe2ac89346481a84f5
+  oyun_zar_macerasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-zar-macerasi
+      ref: main
   oyun_altigen_savas_oyunu:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-savas-oyunu
@@ -43,6 +47,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-vadi-kurucu
       ref: d607567479d4af0f064d549ac9b118892f0d69dd
+  oyun_dort_mevsim_krallik:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-dort-mevsim-krallik
+      ref: main
+  oyun_harita_defteri:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-harita-defteri
+      ref: main
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1

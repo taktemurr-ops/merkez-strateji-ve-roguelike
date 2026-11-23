@@ -1,1 +1,1 @@
-7 spel: håla, kortlek, hexkrig, taktik, strand, arena, dal!
+10 spel: håla, kortlek, hexkrig, taktik, strand, arena, dal!

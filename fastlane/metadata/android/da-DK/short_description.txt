@@ -1,1 +1,1 @@
-7 spil: fangehul, kort, hexkrig, taktik, kyst, arena, dal!
+10 spil: fangehul, kort, hexkrig, taktik, kyst, arena, dal!

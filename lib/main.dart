@@ -1,10 +1,13 @@
 import 'package:flutter/material.dart';
 import 'package:oyun_altigen_savas_oyunu/oyun_altigen_savas_oyunu.dart';
 import 'package:oyun_deste_kurma/oyun_deste_kurma.dart';
+import 'package:oyun_dort_mevsim_krallik/oyun_dort_mevsim_krallik.dart';
+import 'package:oyun_harita_defteri/oyun_harita_defteri.dart';
 import 'package:oyun_hayatta_kalma/oyun_hayatta_kalma.dart';
 import 'package:oyun_kum_saati_arenasi/oyun_kum_saati_arenasi.dart';
 import 'package:oyun_sira_tabanli_taktik/oyun_sira_tabanli_taktik.dart';
 import 'package:oyun_vadi_kurucu/oyun_vadi_kurucu.dart';
+import 'package:oyun_zar_macerasi/oyun_zar_macerasi.dart';
 import 'package:oyun_zindan_kesfi/oyun_zindan_kesfi.dart';
 import 'package:studio_core/app/hub.dart';
 
@@ -89,10 +92,13 @@ final hubConfig = HubConfig(
     zindanKesfiConfig,
     desteSeferiConfig,
     issizKiyiConfig,
+    zarMacerasiConfig,
     altigenSavasConfig,
     siraTaktikConfig,
     kumSaatiArenasiConfig,
     vadiKurucuConfig,
+    dortMevsimKrallikConfig,
+    haritaDefteriConfig,
   ],
   starters: ['oyun-zindan-kesfi', 'oyun-vadi-kurucu', 'oyun-deste-kurma'],
   sections: [
@@ -132,7 +138,7 @@ final hubConfig = HubConfig(
           'Chuyến đi',
           'Mga Lakbay',
         ],
-        ids: ['oyun-zindan-kesfi', 'oyun-deste-kurma', 'oyun-hayatta-kalma']),
+        ids: ['oyun-zindan-kesfi', 'oyun-deste-kurma', 'oyun-hayatta-kalma', 'oyun-zar-macerasi']),
     HubSection(
         title: [
           'Savaş ve taktik',
@@ -206,7 +212,7 @@ final hubConfig = HubConfig(
           'Xây và lập kế hoạch',
           'Magtayo at magplano',
         ],
-        ids: ['oyun-vadi-kurucu']),
+        ids: ['oyun-vadi-kurucu', 'oyun-dort-mevsim-krallik', 'oyun-harita-defteri']),
   ],
 );
 

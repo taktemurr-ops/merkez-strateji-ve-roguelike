@@ -1,1 +1,1 @@
-7 spill: fangehull, kort, hexkrig, taktikk, strand, arena, dal!
+10 spill: fangehull, kort, hexkrig, taktikk, strand, arena, dal!

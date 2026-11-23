@@ -8,10 +8,13 @@ void main() {
       'oyun-zindan-kesfi',
       'oyun-deste-kurma',
       'oyun-hayatta-kalma',
+      'oyun-zar-macerasi',
       'oyun-altigen-savas-oyunu',
       'oyun-sira-tabanli-taktik',
       'oyun-kum-saati-arenasi',
       'oyun-vadi-kurucu',
+      'oyun-dort-mevsim-krallik',
+      'oyun-harita-defteri',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);

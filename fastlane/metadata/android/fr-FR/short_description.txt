@@ -1,1 +1,1 @@
-7 jeux : donjon, deck, hexagones, tactique, rivage, arène, vallée
+10 jeux : donjon, deck, hexagones, tactique, rivage, arène, vallée
