@@ -9,7 +9,7 @@ import 'package:oyun_sira_tabanli_taktik/oyun_sira_tabanli_taktik.dart';
 import 'package:oyun_vadi_kurucu/oyun_vadi_kurucu.dart';
 import 'package:oyun_zar_macerasi/oyun_zar_macerasi.dart';
 import 'package:oyun_zindan_kesfi/oyun_zindan_kesfi.dart';
-import 'approved_hub.dart';
+import 'package:studio_core/app/hub.dart';
 
 /// Strateji ve Roguelike: zindan, deste, altıgen savaş, taktik, hayatta kalma,
 /// arena ve vadi kurma oyunlarını tek uygulamada toplar. Her oyunun kaydı ve
@@ -86,7 +86,7 @@ final hubConfig = HubConfig(
       'Từ hầm ngục tới thung lũng, mỗi lượt đều mới',
       'Mula piitan hanggang lambak, bago ang bawat laro',
     ],
-  seedColor: const Color(0xFF673DA5),
+  seedColor: const Color(0xFF4E3D6B),
   icon: Icons.castle,
   games: [
     zindanKesfiConfig,
