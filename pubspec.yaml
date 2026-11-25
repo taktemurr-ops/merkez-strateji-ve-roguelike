@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_zindan_kesfi:
     git:
@@ -42,7 +42,7 @@ dependencies:
   oyun_kum_saati_arenasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-saati-arenasi
-      ref: 00d98c4b747fead2756a75bad1b5a4817dc5df72
+      ref: d9df18aa961960752e9e060c888924734f851adc
   oyun_vadi_kurucu:
     git:
       url: https://github.com/taktemurr-ops/oyun-vadi-kurucu
@@ -68,7 +68,7 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 14dac3f9192e77fda961b85d5bc33d2effb12f4d
+      ref: 7616c8255fb3d54fad127c324ae0ae7a03b27a6a
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
