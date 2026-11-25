@@ -18,43 +18,43 @@ dependencies:
   oyun_zindan_kesfi:
     git:
       url: https://github.com/taktemurr-ops/oyun-zindan-kesfi
-      ref: 02c1d3f475127ed1ab2013b985afff6009715488
+      ref: 5bce4328ce2a094826aa3e905f86aec61f0b786e
   oyun_deste_kurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-deste-kurma
-      ref: 956c1809762855d1d37e6f881406663dfda21582
+      ref: 3ae45e4657b271514ec2c85cf3f413ccd22060cd
   oyun_hayatta_kalma:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayatta-kalma
-      ref: b8821ecc604b39a95bdc1ca0e8b0c1a91e9fb2c0
+      ref: 201197c77a29745bff4c144f6137720c631d90b5
   oyun_zar_macerasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-zar-macerasi
-      ref: 6aba44e1826dd321f923270f5de82d724c2c77a9
+      ref: 0dddb84d1026433ecaf7aca290b58d632b95f1b1
   oyun_altigen_savas_oyunu:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-savas-oyunu
-      ref: 368b4fcd56331db710361bd78e57e3442ac81aa6
+      ref: 6e67e04298ccdb4590004f96e72642b6259135bd
   oyun_sira_tabanli_taktik:
     git:
       url: https://github.com/taktemurr-ops/oyun-sira-tabanli-taktik
-      ref: 2513cd69049a1f237c79250a2b014df0228cc31f
+      ref: 6e3952e3cb06f2cc29428ad2cc08fd222ea36cc4
   oyun_kum_saati_arenasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-saati-arenasi
-      ref: 364fef7ec961dd0a85af96c96954b5214cd40c8a
+      ref: 00d98c4b747fead2756a75bad1b5a4817dc5df72
   oyun_vadi_kurucu:
     git:
       url: https://github.com/taktemurr-ops/oyun-vadi-kurucu
-      ref: 1401a2d09248a5a14d11f299a8e755761a641d27
+      ref: 817bd0ba3c2fa5c58fd5ca96e3badd02da6da4aa
   oyun_dort_mevsim_krallik:
     git:
       url: https://github.com/taktemurr-ops/oyun-dort-mevsim-krallik
-      ref: 4027de7c23e07fc3693735f7f36086cdc89f3536
+      ref: c9ae281ad35f3b6cd6f26bc75d99eeebeabae41b
   oyun_harita_defteri:
     git:
       url: https://github.com/taktemurr-ops/oyun-harita-defteri
-      ref: 7b1082280ff8039a4e6c40177904a30f7c5637b7
+      ref: 8ad3d485e86fbfc48942822c496efc12d37a7a89
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -72,7 +72,7 @@ dependency_overrides:
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
-      ref: d65b553f88b5be4a8f0dc176c8302bd554bf4498
+      ref: 4b4ce141b9a690965c373b1ff8a7cf2877863859
 
 dev_dependencies:
   flutter_test:
