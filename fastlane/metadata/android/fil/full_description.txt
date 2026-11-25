@@ -1,7 +1,7 @@
 Pinagsasama ng Estratehiya at Roguelike ang 10 larong estratehiya at roguelike sa iisang app. Bumaba sa maulap na piitan dala ang parol, tapusin ang ekspedisyon ng baraha, magtiis sa liblib na baybayin hanggang masagip; pamunuan ang hukbo sa mga hexagon, laruin ang pangkat ayon sa bilis sa patyo, pagsamahin ang mga yunit sa arena ng orasang buhangin at itayo ang lambak nang iniisip ang bawat katabi. Ginagawa ang bawat level at sinusuri ng AI na manlalaro na kaya itong ipanalo. Nagbibigay ang panalo ng puntos ng kahusayan na nagbubukas ng limang pangmatagalang bentahe sa bawat laro.
 
 • Mga Lakbay: Lalim ng Parol, Ekspedisyon ng Baraha, Baybayin ng Napadpad, Pakikipagsapalaran ng Dais
-• Labanan at taktika: Hexagong Larangan, Taktika sa Patyo, Arena ng Orasang Buhangin
+• Labanan at taktika: Hexagong Larangan, Taktika sa Patyo, Arena ng mga Pangkat
 • Magtayo at magplano: Tagapagtayo ng Lambak, Kaharian ng Apat na Panahon, Kuwaderno ng Mapa
 
 Mga tampok

@@ -10,7 +10,7 @@ Strateji ve Roguelike ailesinin **merkez uygulaması**: 10 oyunu tek mağaza uyg
 | Zar Macerası | [oyun-zar-macerasi](https://github.com/taktemurr-ops/oyun-zar-macerasi) |
 | Altıgen Savaş | [oyun-altigen-savas-oyunu](https://github.com/taktemurr-ops/oyun-altigen-savas-oyunu) |
 | Sıra Tabanlı Taktik | [oyun-sira-tabanli-taktik](https://github.com/taktemurr-ops/oyun-sira-tabanli-taktik) |
-| Kum Saati Arenası | [oyun-kum-saati-arenasi](https://github.com/taktemurr-ops/oyun-kum-saati-arenasi) |
+| Birlik Arenası | [oyun-kum-saati-arenasi](https://github.com/taktemurr-ops/oyun-kum-saati-arenasi) |
 | Vadi Kurucu | [oyun-vadi-kurucu](https://github.com/taktemurr-ops/oyun-vadi-kurucu) |
 | Dört Mevsim Krallık | [oyun-dort-mevsim-krallik](https://github.com/taktemurr-ops/oyun-dort-mevsim-krallik) |
 | Harita Defteri | [oyun-harita-defteri](https://github.com/taktemurr-ops/oyun-harita-defteri) |

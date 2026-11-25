@@ -1,7 +1,7 @@
 Strategi & Roguelike menghimpun 10 permainan strategi dan roguelike dalam satu aplikasi. Turuni ruang bawah tanah berkabut dengan lentera, tuntaskan ekspedisi kartu, bertahan di pantai terpencil sampai diselamatkan; pimpin pasukan di petak heksagon, gerakkan regu sesuai kecepatan di halaman, gabungkan pasukan di arena jam pasir, dan bangun lembah dengan memperhatikan setiap tetangga. Setiap level dibuat dan pemain AI memeriksa bahwa level itu bisa dimenangkan. Kemenangan memberi poin keahlian yang membuka lima bonus permanen di tiap permainan.
 
 • Ekspedisi: Kedalaman Lentera, Ekspedisi Kartu, Pantai Terdampar, Petualangan Dadu
-• Pertempuran dan taktik: Front Heksagon, Taktik Halaman, Arena Jam Pasir
+• Pertempuran dan taktik: Front Heksagon, Taktik Halaman, Arena Pasukan
 • Bangun dan rencanakan: Pembangun Lembah, Kerajaan Empat Musim, Buku Peta
 
 Sorotan

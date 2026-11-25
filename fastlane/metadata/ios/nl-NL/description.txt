@@ -1,7 +1,7 @@
 Strategie & Roguelike bundelt 10 strategie- en roguelikespellen in één app. Daal met je lantaarn af in een nevelige kerker, voltooi een kaartexpeditie, houd het vol op een verlaten kust tot de redding; leid een leger over zeshoeken, speel je ploeg op snelheid op een binnenplaats, voeg eenheden samen in de zandloperarena en bouw een dal met oog voor elke buur. Elk level wordt gemaakt en een AI-speler controleert of het te winnen is. Overwinningen geven meesterpunten die per spel vijf blijvende voordelen ontgrendelen.
 
 • Tochten: Lantaarndiepten, Kaartexpeditie, Strand van de Schipbreukeling, Dobbelzoektocht
-• Strijd en tactiek: Zeshoekfront, Binnenplaatstactiek, Zandloperarena
+• Strijd en tactiek: Zeshoekfront, Binnenplaatstactiek, Ploegenarena
 • Bouwen en plannen: Dalbouwer, Koninkrijk der Vier Seizoenen, Kaartenboek
 
 Hoogtepunten

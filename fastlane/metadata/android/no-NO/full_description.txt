@@ -1,7 +1,7 @@
 Strategi & Roguelike samler 10 strategi- og roguelikespill i én app. Gå ned med lykten i et tåkete fangehull, fullfør en kortekspedisjon, hold ut på en øde strand til redningen kommer; led en hær over sekskanter, spill troppen din i fartsrekkefølge i en gård, slå sammen enheter i timeglassarenaen og bygg en dal med tanke på hver nabo. Hvert nivå lages, og en AI-spiller sjekker at det kan vinnes. Seire gir mesterpoeng som låser opp fem varige fordeler i hvert spill.
 
 • Tokt: Lyktedypet, Kortekspedisjonen, Skipbruddets strand, Terningferden
-• Kamp og taktikk: Sekskantfronten, Gårdstaktikk, Timeglassarenaen
+• Kamp og taktikk: Sekskantfronten, Gårdstaktikk, Troppenes Arena
 • Bygg og planlegg: Dalbyggeren, De fire årstiders rike, Kartboka
 
 Høydepunkter
