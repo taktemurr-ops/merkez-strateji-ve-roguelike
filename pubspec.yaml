@@ -42,11 +42,11 @@ dependencies:
   oyun_otomatik_savasci:
     git:
       url: https://github.com/taktemurr-ops/oyun-otomatik-savasci
-      ref: main
+      ref: 38a7969fc475d3fb7edd6f74627cd46c17e47d51
   oyun_zindan_ustasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-zindan-ustasi
-      ref: main
+      ref: 18e99be8ea7801875c6675bb6b230ab95a074368
   oyun_kum_saati_arenasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-saati-arenasi
@@ -80,7 +80,7 @@ dependency_overrides:
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
-      ref: 4b4ce141b9a690965c373b1ff8a7cf2877863859
+      ref: 38fb4a2b7bab710b687caaec9b26bd1742090cce
 
 dev_dependencies:
   flutter_test:
