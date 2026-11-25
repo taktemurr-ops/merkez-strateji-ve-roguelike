@@ -1,1 +1,1 @@
-10 juegos: mazmorra, mazo, hexágonos, táctica, costa, arena, valle
+12 juegos: mazmorra, mazo, hexágonos, táctica, costa, arena, valle

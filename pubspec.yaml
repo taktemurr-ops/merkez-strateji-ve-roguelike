@@ -39,6 +39,14 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-sira-tabanli-taktik
       ref: 6e3952e3cb06f2cc29428ad2cc08fd222ea36cc4
+  oyun_otomatik_savasci:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-otomatik-savasci
+      ref: main
+  oyun_zindan_ustasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-zindan-ustasi
+      ref: main
   oyun_kum_saati_arenasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-saati-arenasi

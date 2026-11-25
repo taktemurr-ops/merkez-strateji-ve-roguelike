@@ -12,9 +12,11 @@ void main() {
       'oyun-altigen-savas-oyunu',
       'oyun-sira-tabanli-taktik',
       'oyun-kum-saati-arenasi',
+      'oyun-otomatik-savasci',
       'oyun-vadi-kurucu',
       'oyun-dort-mevsim-krallik',
       'oyun-harita-defteri',
+      'oyun-zindan-ustasi',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);

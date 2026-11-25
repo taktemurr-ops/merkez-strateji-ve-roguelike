@@ -1,1 +1,1 @@
-10 jogos: masmorra, baralho, hexágonos, tática, costa, arena, vale!
+12 jogos: masmorra, baralho, hexágonos, tática, costa, arena, vale!

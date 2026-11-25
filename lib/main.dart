@@ -5,10 +5,12 @@ import 'package:oyun_dort_mevsim_krallik/oyun_dort_mevsim_krallik.dart';
 import 'package:oyun_harita_defteri/oyun_harita_defteri.dart';
 import 'package:oyun_hayatta_kalma/oyun_hayatta_kalma.dart';
 import 'package:oyun_kum_saati_arenasi/oyun_kum_saati_arenasi.dart';
+import 'package:oyun_otomatik_savasci/oyun_otomatik_savasci.dart';
 import 'package:oyun_sira_tabanli_taktik/oyun_sira_tabanli_taktik.dart';
 import 'package:oyun_vadi_kurucu/oyun_vadi_kurucu.dart';
 import 'package:oyun_zar_macerasi/oyun_zar_macerasi.dart';
 import 'package:oyun_zindan_kesfi/oyun_zindan_kesfi.dart';
+import 'package:oyun_zindan_ustasi/oyun_zindan_ustasi.dart';
 import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
 
@@ -99,9 +101,11 @@ final hubConfig = HubConfig(
     altigenSavasConfig,
     siraTaktikConfig,
     kumSaatiArenasiConfig,
+    otomatikSavasciConfig,
     vadiKurucuConfig,
     dortMevsimKrallikConfig,
     haritaDefteriConfig,
+    zindanUstasiConfig,
   ],
   starters: ['oyun-zindan-kesfi', 'oyun-vadi-kurucu', 'oyun-deste-kurma'],
   sections: [
@@ -178,7 +182,7 @@ final hubConfig = HubConfig(
           'Chiến đấu và chiến thuật',
           'Labanan at taktika',
         ],
-        ids: ['oyun-altigen-savas-oyunu', 'oyun-sira-tabanli-taktik', 'oyun-kum-saati-arenasi']),
+        ids: ['oyun-altigen-savas-oyunu', 'oyun-sira-tabanli-taktik', 'oyun-kum-saati-arenasi', 'oyun-otomatik-savasci']),
     HubSection(
         title: [
           'Kur ve planla',
@@ -215,7 +219,7 @@ final hubConfig = HubConfig(
           'Xây và lập kế hoạch',
           'Magtayo at magplano',
         ],
-        ids: ['oyun-vadi-kurucu', 'oyun-dort-mevsim-krallik', 'oyun-harita-defteri']),
+        ids: ['oyun-vadi-kurucu', 'oyun-dort-mevsim-krallik', 'oyun-harita-defteri', 'oyun-zindan-ustasi']),
   ],
 );
 

@@ -1,6 +1,6 @@
 # Strateji ve Roguelike · Strategy & Roguelike (merkez-strateji-ve-roguelike)
 
-Strateji ve Roguelike ailesinin **merkez uygulaması**: 10 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [strateji-motoru](https://github.com/taktemurr-ops/strateji-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir; kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
+Strateji ve Roguelike ailesinin **merkez uygulaması**: 12 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [strateji-motoru](https://github.com/taktemurr-ops/strateji-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir; kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
 
 | Oyun | Depo |
 |---|---|
@@ -11,8 +11,10 @@ Strateji ve Roguelike ailesinin **merkez uygulaması**: 10 oyunu tek mağaza uyg
 | Altıgen Savaş | [oyun-altigen-savas-oyunu](https://github.com/taktemurr-ops/oyun-altigen-savas-oyunu) |
 | Sıra Tabanlı Taktik | [oyun-sira-tabanli-taktik](https://github.com/taktemurr-ops/oyun-sira-tabanli-taktik) |
 | Birlik Arenası | [oyun-kum-saati-arenasi](https://github.com/taktemurr-ops/oyun-kum-saati-arenasi) |
+| Otomatik Savaşçı | [oyun-otomatik-savasci](https://github.com/taktemurr-ops/oyun-otomatik-savasci) |
 | Vadi Kurucu | [oyun-vadi-kurucu](https://github.com/taktemurr-ops/oyun-vadi-kurucu) |
 | Dört Mevsim Krallık | [oyun-dort-mevsim-krallik](https://github.com/taktemurr-ops/oyun-dort-mevsim-krallik) |
 | Harita Defteri | [oyun-harita-defteri](https://github.com/taktemurr-ops/oyun-harita-defteri) |
+| Zindan Ustası | [oyun-zindan-ustasi](https://github.com/taktemurr-ops/oyun-zindan-ustasi) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-strateji-ve-roguelike/releases/download/test/merkez-strateji-ve-roguelike.apk

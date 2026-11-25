@@ -1,1 +1,1 @@
-10 giochi: sotterraneo, mazzo, esagoni, tattica, riva, arena, valle!
+12 giochi: sotterraneo, mazzo, esagoni, tattica, riva, arena, valle!

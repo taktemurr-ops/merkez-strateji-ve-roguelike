@@ -1,8 +1,8 @@
-Strategia e Roguelike riunisce 10 giochi di strategia e roguelike in un’app. Scendi con la lanterna in un sotterraneo nebbioso, completa una spedizione di carte, resisti su una riva deserta fino ai soccorsi; guida un esercito sugli esagoni, muovi la squadra per velocità in un cortile, unisci unità nell’arena della clessidra e costruisci una valle pensando a ogni vicino. Ogni livello è generato e un giocatore IA verifica che sia vincibile. Le vittorie danno punti maestria che sbloccano cinque vantaggi permanenti per gioco.
+Strategia e Roguelike riunisce 12 giochi di strategia e roguelike in un’app. Scendi con la lanterna in un sotterraneo nebbioso, completa una spedizione di carte, resisti su una riva deserta fino ai soccorsi; guida un esercito sugli esagoni, muovi la squadra per velocità in un cortile, unisci unità nell’arena della clessidra e costruisci una valle pensando a ogni vicino. Ogni livello è generato e un giocatore IA verifica che sia vincibile. Le vittorie danno punti maestria che sbloccano cinque vantaggi permanenti per gioco.
 
 • Spedizioni: Profondità della Lanterna, Spedizione di Carte, Riva del Naufrago, Avventura dei Dadi
-• Battaglia e tattica: Fronte Esagonale, Tattica del Cortile, Arena delle Squadre
-• Costruisci e pianifica: Costruttore della Valle, Regno delle Quattro Stagioni, Quaderno delle Mappe
+• Battaglia e tattica: Fronte Esagonale, Tattica del Cortile, Arena delle Squadre, Guerrieri Automatici
+• Costruisci e pianifica: Costruttore della Valle, Regno delle Quattro Stagioni, Quaderno delle Mappe, Signore del Dungeon
 
 In evidenza
 • 100.000 livelli per gioco; ogni livello è generato e un’IA verifica che sia vincibile.
