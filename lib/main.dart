@@ -9,7 +9,10 @@ import 'package:oyun_sira_tabanli_taktik/oyun_sira_tabanli_taktik.dart';
 import 'package:oyun_vadi_kurucu/oyun_vadi_kurucu.dart';
 import 'package:oyun_zar_macerasi/oyun_zar_macerasi.dart';
 import 'package:oyun_zindan_kesfi/oyun_zindan_kesfi.dart';
+import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
+
+import 'approved_style.dart';
 
 /// Strateji ve Roguelike: zindan, deste, altıgen savaş, taktik, hayatta kalma,
 /// arena ve vadi kurma oyunlarını tek uygulamada toplar. Her oyunun kaydı ve
@@ -216,4 +219,4 @@ final hubConfig = HubConfig(
   ],
 );
 
-void main() => bootstrapHub(hubConfig);
+void main() => bootstrapApprovedHub(hubConfig, approvedStyle);
