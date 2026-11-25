@@ -1,0 +1,15 @@
+Strategia i Roguelike łączy 10 gier strategicznych i roguelike w jednej aplikacji. Zejdź z latarnią do mglistego lochu, ukończ karcianą wyprawę, przetrwaj na bezludnym brzegu do ratunku; prowadź armię po heksach, dowodź drużyną na dziedzińcu według szybkości, łącz jednostki na arenie klepsydry i buduj dolinę z myślą o sąsiadach. Każdy poziom jest generowany, a gracz SI sprawdza, czy da się go wygrać. Zwycięstwa dają punkty mistrzostwa, które odblokowują pięć trwałych premii w każdej grze.
+
+• Wyprawy: Głębiny z Latarnią, Wyprawa Talii, Brzeg Rozbitka, Wyprawa Kości
+• Bitwa i taktyka: Sześciokątny Front, Taktyka na Dziedzińcu, Arena Klepsydry
+• Buduj i planuj: Budowniczy Doliny, Królestwo Czterech Pór, Księga Map
+
+Najważniejsze
+• 100 000 poziomów na grę; każdy jest generowany, a SI sprawdza, czy da się go wygrać.
+• Dziesięć stopni trudności: spokojny początek, wyzwania dla ekspertów później.
+• Zwycięstwa dają punkty mistrzostwa i pięć trwałych premii w każdej grze. Podpowiedź pokazuje ruch, jaki wybrałaby SI.
+• Poziomy dzienne i tygodniowe, zadania, osiągnięcia i 33 języki.
+• Gra offline na telefonie, tablecie i w przeglądarce.
+• Bez hazardu, zakładów i treści 18+; dla każdego wieku.
+
+Zakupy (np. brak reklam) obowiązują we wszystkich grach w aplikacji.

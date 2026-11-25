@@ -1,0 +1,15 @@
+Strateji ve Roguelike, 10 strateji ve roguelike oyununu tek uygulamada toplar. Fenerinle sisli zindanda kat kat in, destenle seferi tamamla, ıssız kıyıda kurtarılana kadar dayan; altıgen haritada ordunu yönet, avluda bölüğünü hız sırasıyla oynat, kum saati arenasında birliklerini birleştir ve vadini komşulukları düşünerek kur. Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir. Kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
+
+• Seferler: Zindan Keşfi, Deste Seferi, Issız Kıyı, Zar Macerası
+• Savaş ve taktik: Altıgen Savaş, Sıra Tabanlı Taktik, Kum Saati Arenası
+• Kur ve planla: Vadi Kurucu, Dört Mevsim Krallık, Harita Defteri
+
+Öne çıkanlar
+• Oyun başına 100.000 bölüm; her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir.
+• On zorluk basamağı: ilk bölümlerde rahat, ileride ustalara göre.
+• Kazandıkça ustalık puanı toplanır; her oyunda beş kalıcı kazanım açılır. İpucu, yapay zekânın önerdiği hamleyi gösterir.
+• Günlük ve haftalık bölümler, görevler, başarımlar ve 33 dil.
+• İnternetsiz oynanır; telefon, tablet ve webde çalışır.
+• Kumar, bahis veya 18+ içerik yoktur; tüm yaşlar için uygundur.
+
+Satın alımlar (ör. reklamsız) uygulamadaki tüm oyunlarda geçerlidir.
