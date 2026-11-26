@@ -108,6 +108,21 @@ final hubConfig = HubConfig(
     zindanUstasiConfig,
   ],
   starters: ['oyun-zindan-kesfi', 'oyun-vadi-kurucu', 'oyun-deste-kurma'],
+  covers: const {
+    'oyun-altigen-savas-oyunu': GameCover('hexwarc', v: 2),
+    'oyun-deste-kurma': GameCover('deckc', v: 1),
+    'oyun-dort-mevsim-krallik': GameCover('seasoncrownc'),
+    'oyun-harita-defteri': GameCover('mapjournalc', v: 2),
+    'oyun-hayatta-kalma': GameCover('shorec', v: 2),
+    'oyun-kum-saati-arenasi': GameCover('hourglassc', v: 1),
+    'oyun-otomatik-savasci': GameCover('autobattlerc'),
+    'oyun-sira-tabanli-taktik': GameCover('squadc', v: 1),
+    'oyun-vadi-kurucu': GameCover('valleyc'),
+    'oyun-zar-macerasi': GameCover('dicebagc', v: 1),
+    'oyun-zindan-kesfi': GameCover('lanternc'),
+    'oyun-zindan-ustasi': GameCover('dungeonkeeperc'),
+  },
+  defaultCover: const GameCover('lanternc'),
   sections: [
     HubSection(
         title: [
