@@ -19,6 +19,7 @@ import 'package:studio_core/app/approved_hub.dart';
 import 'package:studio_core/app/hub.dart';
 
 import 'approved_style.dart';
+import 'store_flavor.dart';
 
 /// Strateji ve Roguelike: zindan, deste, altıgen savaş, taktik, hayatta kalma,
 /// arena ve vadi kurma oyunlarını tek uygulamada toplar. Her oyunun kaydı ve
@@ -253,4 +254,7 @@ final hubConfig = HubConfig(
 /// Uygulama içi gizlilik politikası (Ayarlar → Gizlilik politikası). Mağaza kayıtlarında da aynı adres.
 const privacyUrl = 'https://github.com/taktemurr-ops/merkez-strateji-ve-roguelike/blob/main/PRIVACY.md';
 
-void main() => bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+void main() {
+  registerStoreFlavor();
+  bootstrapApprovedHub(hubConfig, approvedStyle, privacyUrl: privacyUrl);
+}
