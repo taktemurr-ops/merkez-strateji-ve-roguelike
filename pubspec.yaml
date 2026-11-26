@@ -13,56 +13,56 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_zindan_kesfi:
     git:
       url: https://github.com/taktemurr-ops/oyun-zindan-kesfi
-      ref: 5bce4328ce2a094826aa3e905f86aec61f0b786e
+      ref: ebfd5ecc02a9cb0f5e3a365492f08a541e0b7237
   oyun_deste_kurma:
     git:
       url: https://github.com/taktemurr-ops/oyun-deste-kurma
-      ref: 3ae45e4657b271514ec2c85cf3f413ccd22060cd
+      ref: f94b14e279f880ba5240de63758d4a3430a80d4a
   oyun_hayatta_kalma:
     git:
       url: https://github.com/taktemurr-ops/oyun-hayatta-kalma
-      ref: 201197c77a29745bff4c144f6137720c631d90b5
+      ref: a9d741afaf9e78d514cb35379242e6ba6a715be8
   oyun_zar_macerasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-zar-macerasi
-      ref: 0dddb84d1026433ecaf7aca290b58d632b95f1b1
+      ref: c946468e59d2ba35e54df97a62e5ad27903ff0ab
   oyun_altigen_savas_oyunu:
     git:
       url: https://github.com/taktemurr-ops/oyun-altigen-savas-oyunu
-      ref: 6e67e04298ccdb4590004f96e72642b6259135bd
+      ref: a0c74b9c94f2ee8fe357b25a692b00f2592bf665
   oyun_sira_tabanli_taktik:
     git:
       url: https://github.com/taktemurr-ops/oyun-sira-tabanli-taktik
-      ref: 6e3952e3cb06f2cc29428ad2cc08fd222ea36cc4
+      ref: f8b70c51dc4952dc962a1ce1b0ab3b2c1c17c68a
   oyun_otomatik_savasci:
     git:
       url: https://github.com/taktemurr-ops/oyun-otomatik-savasci
-      ref: 38a7969fc475d3fb7edd6f74627cd46c17e47d51
+      ref: 5638f90ab330ab923fd7fd01f90bcffae30d193b
   oyun_zindan_ustasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-zindan-ustasi
-      ref: 18e99be8ea7801875c6675bb6b230ab95a074368
+      ref: 3484190c892208f1285f452bf7a55c8c7e95bfc7
   oyun_kum_saati_arenasi:
     git:
       url: https://github.com/taktemurr-ops/oyun-kum-saati-arenasi
-      ref: d9df18aa961960752e9e060c888924734f851adc
+      ref: 31c7e1cb8eb2a73ac99652625ea54a16f53f6f07
   oyun_vadi_kurucu:
     git:
       url: https://github.com/taktemurr-ops/oyun-vadi-kurucu
-      ref: 817bd0ba3c2fa5c58fd5ca96e3badd02da6da4aa
+      ref: 72335f6892d4ba4a2544de1c2c67cc2129e5d89c
   oyun_dort_mevsim_krallik:
     git:
       url: https://github.com/taktemurr-ops/oyun-dort-mevsim-krallik
-      ref: c9ae281ad35f3b6cd6f26bc75d99eeebeabae41b
+      ref: 2cdb7e76117949c1e9f41e575978b9bbe1522f9d
   oyun_harita_defteri:
     git:
       url: https://github.com/taktemurr-ops/oyun-harita-defteri
-      ref: 8ad3d485e86fbfc48942822c496efc12d37a7a89
+      ref: dbd1eccaf889ee50705216f1aea36ef9c2a64c21
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -76,11 +76,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: a2d05c02f4fa6a3fa8fe9a28a1d19578c0d9b1ec
+      ref: 8cb935c63a86ca3e5fb38758edd5bb8ec44dccdd
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
-      ref: 38fb4a2b7bab710b687caaec9b26bd1742090cce
+      ref: 58aaa5456036b57a3001cf22f2329a59d412e45b
 
 dev_dependencies:
   flutter_test:
