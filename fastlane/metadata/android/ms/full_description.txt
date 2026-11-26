@@ -1,7 +1,7 @@
-Strategi & Roguelike menghimpunkan 12 permainan strategi dan roguelike dalam satu apl. Turuni penjara bawah tanah berkabus dengan tanglung, tamatkan ekspedisi kad, bertahan di pantai terpencil hingga diselamatkan; pimpin tentera di petak heksagon, gerakkan skuad mengikut kelajuan di halaman, gabungkan unit di gelanggang jam pasir dan bina lembah dengan mengambil kira setiap jiran. Setiap tahap dijana dan pemain AI menyemak bahawa ia boleh dimenangi. Kemenangan memberi mata kemahiran yang membuka lima kelebihan kekal dalam setiap permainan.
+Strategi & Roguelike menghimpunkan 16 permainan strategi dan roguelike dalam satu apl. Turuni penjara bawah tanah berkabus dengan tanglung, tamatkan ekspedisi kad, bertahan di pantai terpencil hingga diselamatkan; pimpin tentera di petak heksagon, gerakkan skuad mengikut kelajuan di halaman, gabungkan unit di gelanggang jam pasir dan bina lembah dengan mengambil kira setiap jiran. Setiap tahap dijana dan pemain AI menyemak bahawa ia boleh dimenangi. Kemenangan memberi mata kemahiran yang membuka lima kelebihan kekal dalam setiap permainan.
 
-• Ekspedisi: Kedalaman Tanglung, Ekspedisi Kad, Pantai Terdampar, Pengembaraan Dadu
-• Pertempuran dan taktik: Barisan Heksagon, Taktik Halaman, Arena Pasukan, Pahlawan Automatik
+• Ekspedisi: Kedalaman Tanglung, Ekspedisi Kad, Pantai Terdampar, Pengembaraan Dadu, Pemburu Kawanan, Penjara Lantun
+• Pertempuran dan taktik: Barisan Heksagon, Taktik Halaman, Arena Pasukan, Pahlawan Automatik, Pertarungan Uncang, Kepungan Kota
 • Bina dan rancang: Pembina Lembah, Kerajaan Empat Musim, Buku Peta, Penguasa Kurungan
 
 Sorotan

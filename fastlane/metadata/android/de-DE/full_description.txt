@@ -1,7 +1,7 @@
-Strategie & Roguelike vereint 12 Strategie- und Roguelike-Spiele in einer App. Steig mit der Laterne in einen nebligen Kerker, vollende eine Kartenexpedition, halte an einer einsamen Küste bis zur Rettung durch; führe ein Heer über Sechsecke, spiele deinen Trupp im Hof nach Tempo, verschmelze Einheiten in der Truppen-Arena und baue ein Tal mit Blick auf jede Nachbarschaft. Jedes Level wird erzeugt und von einer KI auf Gewinnbarkeit geprüft. Siege bringen Meisterpunkte, die in jedem Spiel fünf dauerhafte Vorteile freischalten.
+Strategie & Roguelike vereint 16 Strategie- und Roguelike-Spiele in einer App. Steig mit der Laterne in einen nebligen Kerker, vollende eine Kartenexpedition, halte an einer einsamen Küste bis zur Rettung durch; führe ein Heer über Sechsecke, spiele deinen Trupp im Hof nach Tempo, verschmelze Einheiten in der Truppen-Arena und baue ein Tal mit Blick auf jede Nachbarschaft. Jedes Level wird erzeugt und von einer KI auf Gewinnbarkeit geprüft. Siege bringen Meisterpunkte, die in jedem Spiel fünf dauerhafte Vorteile freischalten.
 
-• Streifzüge: Laternentiefen, Deck-Expedition, Strandgut-Küste, Würfelreise
-• Kampf und Taktik: Sechseck-Front, Hof-Taktik, Truppen-Arena, Auto-Krieger
+• Streifzüge: Laternentiefen, Deck-Expedition, Strandgut-Küste, Würfelreise, Schwarmjäger, Abprall-Verlies
+• Kampf und Taktik: Sechseck-Front, Hof-Taktik, Truppen-Arena, Auto-Krieger, Satteltaschen-Duelle, Burgbelagerung
 • Bauen und planen: Talbaumeister, Königreich der vier Jahreszeiten, Kartenbuch, Kerkermeister
 
 Highlights

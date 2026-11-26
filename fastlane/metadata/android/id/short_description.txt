@@ -1,1 +1,1 @@
-12 permainan: ruang bawah tanah, dek, heksagon, taktik, pantai, arena!
+16 permainan: ruang bawah tanah, dek, heksagon, taktik, pantai, arena!

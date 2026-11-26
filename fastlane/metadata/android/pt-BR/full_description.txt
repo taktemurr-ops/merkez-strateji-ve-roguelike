@@ -1,7 +1,7 @@
-Estratégia e Roguelike reúne 12 jogos de estratégia e roguelike num só app. Desça com a lanterna a uma masmorra enevoada, conclua uma expedição de cartas, resista numa costa deserta até o resgate; conduza um exército pelos hexágonos, jogue com seu esquadrão por velocidade num pátio, junte unidades na arena da ampulheta e construa um vale pensando em cada vizinho. Cada nível é gerado e um jogador de IA verifica que é possível vencer. Vitórias dão pontos de mestria que liberam cinco vantagens permanentes em cada jogo.
+Estratégia e Roguelike reúne 16 jogos de estratégia e roguelike num só app. Desça com a lanterna a uma masmorra enevoada, conclua uma expedição de cartas, resista numa costa deserta até o resgate; conduza um exército pelos hexágonos, jogue com seu esquadrão por velocidade num pátio, junte unidades na arena da ampulheta e construa um vale pensando em cada vizinho. Cada nível é gerado e um jogador de IA verifica que é possível vencer. Vitórias dão pontos de mestria que liberam cinco vantagens permanentes em cada jogo.
 
-• Expedições: Profundezas da Lanterna, Expedição de Cartas, Costa do Náufrago, Aventura dos Dados
-• Batalha e tática: Fronteira Hexagonal, Tática no Pátio, Arena de Esquadrões, Guerreiros Automáticos
+• Expedições: Profundezas da Lanterna, Expedição de Cartas, Costa do Náufrago, Aventura dos Dados, Caçador de Enxames, Masmorra dos Ricochetes
+• Batalha e tática: Fronteira Hexagonal, Tática no Pátio, Arena de Esquadrões, Guerreiros Automáticos, Batalhas de Alforjes, Cerco ao Castelo
 • Construa e planeje: Construtor do Vale, Reino das Quatro Estações, Caderno de Mapas, Mestre da Masmorra
 
 Destaques

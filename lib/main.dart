@@ -4,9 +4,13 @@ import 'package:oyun_deste_kurma/oyun_deste_kurma.dart';
 import 'package:oyun_dort_mevsim_krallik/oyun_dort_mevsim_krallik.dart';
 import 'package:oyun_harita_defteri/oyun_harita_defteri.dart';
 import 'package:oyun_hayatta_kalma/oyun_hayatta_kalma.dart';
+import 'package:oyun_heybe_savaslari/oyun_heybe_savaslari.dart';
+import 'package:oyun_kale_kusatmasi/oyun_kale_kusatmasi.dart';
 import 'package:oyun_kum_saati_arenasi/oyun_kum_saati_arenasi.dart';
 import 'package:oyun_otomatik_savasci/oyun_otomatik_savasci.dart';
 import 'package:oyun_sira_tabanli_taktik/oyun_sira_tabanli_taktik.dart';
+import 'package:oyun_suru_avcisi/oyun_suru_avcisi.dart';
+import 'package:oyun_top_sekme_zindani/oyun_top_sekme_zindani.dart';
 import 'package:oyun_vadi_kurucu/oyun_vadi_kurucu.dart';
 import 'package:oyun_zar_macerasi/oyun_zar_macerasi.dart';
 import 'package:oyun_zindan_kesfi/oyun_zindan_kesfi.dart';
@@ -106,6 +110,10 @@ final hubConfig = HubConfig(
     dortMevsimKrallikConfig,
     haritaDefteriConfig,
     zindanUstasiConfig,
+    suruAvcisiConfig,
+    topSekmeZindaniConfig,
+    heybeSavaslariConfig,
+    kaleKusatmasiConfig,
   ],
   starters: ['oyun-zindan-kesfi', 'oyun-vadi-kurucu', 'oyun-deste-kurma'],
   covers: const {
@@ -121,6 +129,10 @@ final hubConfig = HubConfig(
     'oyun-zar-macerasi': GameCover('dicebagc', v: 1),
     'oyun-zindan-kesfi': GameCover('lanternc'),
     'oyun-zindan-ustasi': GameCover('dungeonkeeperc'),
+    'oyun-suru-avcisi': GameCover('ek4swarm'),
+    'oyun-top-sekme-zindani': GameCover('ek4bounce'),
+    'oyun-heybe-savaslari': GameCover('ek4bag'),
+    'oyun-kale-kusatmasi': GameCover('ek4siege'),
   },
   defaultCover: const GameCover('lanternc'),
   sections: [
@@ -160,7 +172,7 @@ final hubConfig = HubConfig(
           'Chuyến đi',
           'Mga Lakbay',
         ],
-        ids: ['oyun-zindan-kesfi', 'oyun-deste-kurma', 'oyun-hayatta-kalma', 'oyun-zar-macerasi']),
+        ids: ['oyun-zindan-kesfi', 'oyun-deste-kurma', 'oyun-hayatta-kalma', 'oyun-zar-macerasi', 'oyun-suru-avcisi', 'oyun-top-sekme-zindani']),
     HubSection(
         title: [
           'Savaş ve taktik',
@@ -197,7 +209,7 @@ final hubConfig = HubConfig(
           'Chiến đấu và chiến thuật',
           'Labanan at taktika',
         ],
-        ids: ['oyun-altigen-savas-oyunu', 'oyun-sira-tabanli-taktik', 'oyun-kum-saati-arenasi', 'oyun-otomatik-savasci']),
+        ids: ['oyun-altigen-savas-oyunu', 'oyun-sira-tabanli-taktik', 'oyun-kum-saati-arenasi', 'oyun-otomatik-savasci', 'oyun-heybe-savaslari', 'oyun-kale-kusatmasi']),
     HubSection(
         title: [
           'Kur ve planla',

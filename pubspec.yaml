@@ -13,7 +13,7 @@ dependencies:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   # Merkezdeki oyunlar (her biri kendi deposunda)
   oyun_zindan_kesfi:
     git:
@@ -63,6 +63,22 @@ dependencies:
     git:
       url: https://github.com/taktemurr-ops/oyun-harita-defteri
       ref: dbd1eccaf889ee50705216f1aea36ef9c2a64c21
+  oyun_suru_avcisi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-suru-avcisi
+      ref: 93d389a5a62accec5ceb1e84be4cb45daa83afeb
+  oyun_top_sekme_zindani:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-top-sekme-zindani
+      ref: 7eea03ada5047bbb1eac55810d0f5023eb1042b0
+  oyun_heybe_savaslari:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-heybe-savaslari
+      ref: 1643e29e8c015b4acde1eff9966ff97b61d239d4
+  oyun_kale_kusatmasi:
+    git:
+      url: https://github.com/taktemurr-ops/oyun-kale-kusatmasi
+      ref: f5f1da06169f8cc4b81f9cdc6faedb76a4e241d0
   flutter_localizations:
     sdk: flutter
   flutter_riverpod: ^2.6.1
@@ -76,11 +92,11 @@ dependency_overrides:
   studio_core:
     git:
       url: https://github.com/taktemurr-ops/studio-core
-      ref: 5eedc912719ebc306e3cd9e5e9b251efe4399105
+      ref: 199f5120f94f2c2311d885f7bcd1876de93935de
   strateji_motoru:
     git:
       url: https://github.com/taktemurr-ops/strateji-motoru
-      ref: 58aaa5456036b57a3001cf22f2329a59d412e45b
+      ref: b757ee6267961caf74adaf831e36dc2a0aa5e2c1
 
 dev_dependencies:
   flutter_test:

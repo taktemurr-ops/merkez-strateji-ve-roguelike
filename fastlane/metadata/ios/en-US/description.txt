@@ -1,7 +1,7 @@
 Strategy & Roguelike brings 10 strategy and roguelike games into one app. Descend a misty dungeon by lantern light, finish a card expedition, hold out on a castaway shore until rescue; lead an army across hexes, play your squad in speed order in a courtyard, merge units in the hourglass arena and build a valley with an eye on every neighbor. Every level is generated and checked to be winnable by an AI player. Wins earn mastery points that unlock five lasting perks in each game.
 
-• Runs: Lantern Depths, Deck Expedition, Castaway Shore, Dice Quest
-• Battle and tactics: Hex Frontier, Courtyard Tactics, Squad Arena
+• Runs: Lantern Depths, Deck Expedition, Castaway Shore, Dice Quest, Swarm Hunter, Bounce Dungeon
+• Battle and tactics: Hex Frontier, Courtyard Tactics, Squad Arena, Saddlebag Battles, Castle Siege
 • Build and plan: Valley Builder, Four Seasons Kingdom, Map Journal
 
 Highlights

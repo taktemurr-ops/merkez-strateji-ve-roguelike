@@ -1,7 +1,7 @@
 Strategia & Roguelike kokoaa 10 strategia- ja roguelike-peliä yhteen sovellukseen. Laskeudu lyhdyn kanssa sumuiseen tyrmään, vie korttiretki loppuun, sinnittele autiolla rannalla pelastukseen asti; johda armeijaa kuusikulmioilla, pelaa ryhmääsi linnanpihalla nopeusjärjestyksessä, yhdistä yksiköitä tiimalasiareenalla ja rakenna laakso jokaista naapuria ajatellen. Jokainen taso luodaan, ja tekoälypelaaja tarkistaa, että sen voi voittaa. Voitot tuovat mestaruuspisteitä, jotka avaavat jokaisessa pelissä viisi pysyvää etua.
 
-• Retket: Lyhdyn syvyydet, Korttiretki, Haaksirikkoisen ranta, Noppaseikkailu
-• Taistelu ja taktiikka: Kuusikulmarintama, Linnanpihan taktiikka, Joukkoareena
+• Retket: Lyhdyn syvyydet, Korttiretki, Haaksirikkoisen ranta, Noppaseikkailu, Parvenmetsästäjä, Kimmokeluola
+• Taistelu ja taktiikka: Kuusikulmarintama, Linnanpihan taktiikka, Joukkoareena, Satulalaukkutaistot, Linnan Piiritys
 • Rakenna ja suunnittele: Laakson rakentaja, Neljän vuodenajan valtakunta, Karttakirja
 
 Kohokohdat

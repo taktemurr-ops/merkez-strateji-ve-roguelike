@@ -1,6 +1,6 @@
 # Strateji ve Roguelike · Strategy & Roguelike (merkez-strateji-ve-roguelike)
 
-Strateji ve Roguelike ailesinin **merkez uygulaması**: 12 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [strateji-motoru](https://github.com/taktemurr-ops/strateji-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir; kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
+Strateji ve Roguelike ailesinin **merkez uygulaması**: 16 oyunu tek mağaza uygulamasında toplar. Her oyun kendi deposundadır; ortak motor [strateji-motoru](https://github.com/taktemurr-ops/strateji-motoru), ortak çekirdek [studio-core](https://github.com/taktemurr-ops/studio-core). Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir; kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
 
 | Oyun | Depo |
 |---|---|
@@ -16,5 +16,9 @@ Strateji ve Roguelike ailesinin **merkez uygulaması**: 12 oyunu tek mağaza uyg
 | Dört Mevsim Krallık | [oyun-dort-mevsim-krallik](https://github.com/taktemurr-ops/oyun-dort-mevsim-krallik) |
 | Harita Defteri | [oyun-harita-defteri](https://github.com/taktemurr-ops/oyun-harita-defteri) |
 | Zindan Ustası | [oyun-zindan-ustasi](https://github.com/taktemurr-ops/oyun-zindan-ustasi) |
+| Sürü Avcısı | [oyun-suru-avcisi](https://github.com/taktemurr-ops/oyun-suru-avcisi) |
+| Top Sekme Zindanı | [oyun-top-sekme-zindani](https://github.com/taktemurr-ops/oyun-top-sekme-zindani) |
+| Heybe Savaşları | [oyun-heybe-savaslari](https://github.com/taktemurr-ops/oyun-heybe-savaslari) |
+| Kale Kuşatması | [oyun-kale-kusatmasi](https://github.com/taktemurr-ops/oyun-kale-kusatmasi) |
 
 Test APK: https://github.com/taktemurr-ops/merkez-strateji-ve-roguelike/releases/download/test/merkez-strateji-ve-roguelike.apk

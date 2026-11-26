@@ -1,7 +1,7 @@
 Strategie și Roguelike reunește 10 jocuri de strategie și roguelike într-o aplicație. Coboară cu felinarul într-o temniță cețoasă, termină o expediție de cărți, rezistă pe un țărm pustiu până la salvare; condu o armată pe hexagoane, joacă-ți echipa după viteză într-o curte, unește unități în arena clepsidrei și construiește o vale gândindu-te la vecini. Fiecare nivel e generat, iar un jucător AI verifică faptul că poate fi câștigat. Victoriile aduc puncte de măiestrie care deblochează cinci avantaje permanente în fiecare joc.
 
-• Expediții: Adâncurile Felinarului, Expediția Cărților, Țărmul Naufragiatului, Aventura Zarurilor
-• Luptă și tactică: Frontul Hexagonal, Tactica Curții, Arena Echipelor
+• Expediții: Adâncurile Felinarului, Expediția Cărților, Țărmul Naufragiatului, Aventura Zarurilor, Vânătorul de Roiuri, Temnița Ricoșeurilor
+• Luptă și tactică: Frontul Hexagonal, Tactica Curții, Arena Echipelor, Bătăliile Desagilor, Asediul Castelului
 • Construiește și planifică: Constructorul Văii, Regatul Celor Patru Anotimpuri, Caietul Hărților
 
 Puncte forte

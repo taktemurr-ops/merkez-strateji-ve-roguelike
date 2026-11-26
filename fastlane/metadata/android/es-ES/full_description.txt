@@ -1,7 +1,7 @@
-Estrategia y Roguelike reúne 12 juegos de estrategia y roguelike en una app. Baja con tu farol a una mazmorra brumosa, completa una expedición de cartas, resiste en una costa desierta hasta el rescate; dirige un ejército por hexágonos, mueve tu escuadra por orden de velocidad en un patio, fusiona unidades en la arena del reloj de arena y construye un valle pensando en cada vecino. Cada nivel se genera y una IA comprueba que se puede ganar. Ganar da puntos de maestría que desbloquean cinco mejoras permanentes por juego.
+Estrategia y Roguelike reúne 16 juegos de estrategia y roguelike en una app. Baja con tu farol a una mazmorra brumosa, completa una expedición de cartas, resiste en una costa desierta hasta el rescate; dirige un ejército por hexágonos, mueve tu escuadra por orden de velocidad en un patio, fusiona unidades en la arena del reloj de arena y construye un valle pensando en cada vecino. Cada nivel se genera y una IA comprueba que se puede ganar. Ganar da puntos de maestría que desbloquean cinco mejoras permanentes por juego.
 
-• Expediciones: Profundidades del Farol, Expedición de Cartas, Costa del Náufrago, Aventura de Dados
-• Batalla y táctica: Frontera Hexagonal, Táctica en el Patio, Arena de Escuadras, Guerreros Automáticos
+• Expediciones: Profundidades del Farol, Expedición de Cartas, Costa del Náufrago, Aventura de Dados, Cazador de Enjambres, Mazmorra de Rebotes
+• Batalla y táctica: Frontera Hexagonal, Táctica en el Patio, Arena de Escuadras, Guerreros Automáticos, Batallas de Alforjas, Asedio al Castillo
 • Construye y planea: Constructor del Valle, Reino de las Cuatro Estaciones, Cuaderno de Mapas, Señor de la Mazmorra
 
 Lo más destacado

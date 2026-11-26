@@ -1,7 +1,7 @@
-A Stratégia és roguelike 12 stratégiai és roguelike játékot gyűjt egy appba. Szállj le lámpással egy ködös börtönbe, teljesíts egy kártyás expedíciót, tarts ki egy lakatlan parton a mentésig; vezess sereget hatszögeken, játszd ki csapatodat gyorsasági sorrendben egy udvaron, egyesíts egységeket a homokóra-arénában, és építs völgyet a szomszédokra figyelve. Minden szint generált, és egy MI-játékos ellenőrzi, hogy megnyerhető. A győzelmek mesterpontokat adnak, amelyek játékonként öt tartós előnyt nyitnak.
+A Stratégia és roguelike 16 stratégiai és roguelike játékot gyűjt egy appba. Szállj le lámpással egy ködös börtönbe, teljesíts egy kártyás expedíciót, tarts ki egy lakatlan parton a mentésig; vezess sereget hatszögeken, játszd ki csapatodat gyorsasági sorrendben egy udvaron, egyesíts egységeket a homokóra-arénában, és építs völgyet a szomszédokra figyelve. Minden szint generált, és egy MI-játékos ellenőrzi, hogy megnyerhető. A győzelmek mesterpontokat adnak, amelyek játékonként öt tartós előnyt nyitnak.
 
-• Kalandok: Lámpásmélység, Pakli-expedíció, Hajótöröttek partja, Kockakaland
-• Csata és taktika: Hatszög-front, Udvari taktika, Osztagaréna, Automata Harcosok
+• Kalandok: Lámpásmélység, Pakli-expedíció, Hajótöröttek partja, Kockakaland, Rajvadász, Pattanó Kazamata
+• Csata és taktika: Hatszög-front, Udvari taktika, Osztagaréna, Automata Harcosok, Nyeregtáska-csaták, Várostrom
 • Építs és tervezz: Völgyépítő, Négy évszak királysága, Térképes napló, Tömlöcmester
 
 Kiemelt

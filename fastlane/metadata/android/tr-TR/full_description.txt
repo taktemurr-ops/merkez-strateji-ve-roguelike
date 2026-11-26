@@ -1,7 +1,7 @@
-Strateji ve Roguelike, 12 strateji ve roguelike oyununu tek uygulamada toplar. Fenerinle sisli zindanda kat kat in, destenle seferi tamamla, ıssız kıyıda kurtarılana kadar dayan; altıgen haritada ordunu yönet, avluda bölüğünü hız sırasıyla oynat, kum saati arenasında birliklerini birleştir ve vadini komşulukları düşünerek kur. Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir. Kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
+Strateji ve Roguelike, 16 strateji ve roguelike oyununu tek uygulamada toplar. Fenerinle sisli zindanda kat kat in, destenle seferi tamamla, ıssız kıyıda kurtarılana kadar dayan; altıgen haritada ordunu yönet, avluda bölüğünü hız sırasıyla oynat, kum saati arenasında birliklerini birleştir ve vadini komşulukları düşünerek kur. Her bölüm üretilir ve yapay zekâ oyuncuyla kazanılabilirliği denetlenir. Kazandıkça ustalık puanı toplanır ve her oyunda beş kalıcı kazanım açılır.
 
-• Seferler: Zindan Keşfi, Deste Seferi, Issız Kıyı, Zar Macerası
-• Savaş ve taktik: Altıgen Savaş, Sıra Tabanlı Taktik, Birlik Arenası, Otomatik Savaşçı
+• Seferler: Zindan Keşfi, Deste Seferi, Issız Kıyı, Zar Macerası, Sürü Avcısı, Top Sekme Zindanı
+• Savaş ve taktik: Altıgen Savaş, Sıra Tabanlı Taktik, Birlik Arenası, Otomatik Savaşçı, Heybe Savaşları, Kale Kuşatması
 • Kur ve planla: Vadi Kurucu, Dört Mevsim Krallık, Harita Defteri, Zindan Ustası
 
 Öne çıkanlar

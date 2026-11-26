@@ -1,7 +1,7 @@
-Strategi & Roguelike samler 12 strategi- og roguelikespil i én app. Gå ned med lygten i et tåget fangehul, fuldfør en kortekspedition, hold ud på en øde kyst, til redningen kommer; før en hær over sekskanter, spil dit hold i fartorden i en gård, smelt enheder sammen i timeglasarenaen og byg en dal med blik for hver nabo. Hver bane skabes, og en AI-spiller tjekker, at den kan vindes. Sejre giver mesterpoint, der låser fem varige fordele op i hvert spil.
+Strategi & Roguelike samler 16 strategi- og roguelikespil i én app. Gå ned med lygten i et tåget fangehul, fuldfør en kortekspedition, hold ud på en øde kyst, til redningen kommer; før en hær over sekskanter, spil dit hold i fartorden i en gård, smelt enheder sammen i timeglasarenaen og byg en dal med blik for hver nabo. Hver bane skabes, og en AI-spiller tjekker, at den kan vindes. Sejre giver mesterpoint, der låser fem varige fordele op i hvert spil.
 
-• Togter: Lygtedybet, Kortekspeditionen, Skibbrudnes kyst, Terningefærden
-• Kamp og taktik: Sekskantfronten, Gårdtaktik, Troppernes Arena, Autokrigere
+• Togter: Lygtedybet, Kortekspeditionen, Skibbrudnes kyst, Terningefærden, Sværmjægeren, Hoppefangehullet
+• Kamp og taktik: Sekskantfronten, Gårdtaktik, Troppernes Arena, Autokrigere, Sadeltaskekampe, Borgbelejring
 • Byg og planlæg: Dalbyggeren, De fire årstiders rige, Kortbogen, Fangehullets Herre
 
 Højdepunkter

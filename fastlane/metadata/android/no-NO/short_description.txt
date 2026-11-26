@@ -1,1 +1,1 @@
-12 spill: fangehull, kort, hexkrig, taktikk, strand, arena, dal!
+16 spill: fangehull, kort, hexkrig, taktikk, strand, arena, dal!

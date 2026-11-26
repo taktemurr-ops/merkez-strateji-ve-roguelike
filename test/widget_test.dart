@@ -17,6 +17,10 @@ void main() {
       'oyun-dort-mevsim-krallik',
       'oyun-harita-defteri',
       'oyun-zindan-ustasi',
+      'oyun-suru-avcisi',
+      'oyun-top-sekme-zindani',
+      'oyun-heybe-savaslari',
+      'oyun-kale-kusatmasi',
     ]);
     final all = hubConfig.allGames.map((g) => g.gameId).toList();
     expect(all.length, ids.length + 0);
